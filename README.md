@@ -1,4 +1,4 @@
-ESP32 Projects:
+#ESP32 Projects:
 
 - DIY IR Smart Remote
 - Bluetooth to wi-Fi Proxy 
