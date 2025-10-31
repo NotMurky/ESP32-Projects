@@ -64,6 +64,7 @@ A custom IR transmitter remote currently designed to toggle power for a Seville 
 
 - The Code is currently unavailable as it is off-site.
 - ~~The firmware File is availage which will be listed in the Project Folder.~~ Edit: Firmware file contain sensitive infomation, it is not available.
+      Will be availabe soon.
 ## License
 
 MIT License
