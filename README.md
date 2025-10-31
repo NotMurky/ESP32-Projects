@@ -1,6 +1,7 @@
 ESP32 Projects:
 
 - DIY IR Smart Remote
+- Bluetooth to wi-Fi Proxy 
 - More soon to be...
 
 
@@ -50,7 +51,19 @@ A custom IR transmitter remote currently designed to toggle power for a Seville 
 - Code is toggle-based: pressing the button switches the fan between on and off states.  
 
 ---
+## BlueTooth to WiFi Proxy for devices
+"An ESP32 Bluetooth proxy acts as a bridge between Bluetooth and Wi-Fi for Home Assistant. It extends the range of Bluetooth devices (like thermometers, smart locks, or presence sensors) by scanning for their signals and forwarding that data over Wi-Fi to your Home Assistant server. This lets Home Assistant read Bluetooth devices that are far away or in other rooms, improving reliability and coverage."
 
+---
+
+#Hardware Used
+
+- ESP32-Wroom.
+
+# Code 
+
+- The Code is currently unavailable as it is off-site.
+- The firmware File is availage which will be listed in the Project Folder.
 ## License
 
 MIT License
