@@ -56,7 +56,7 @@ A custom IR transmitter remote currently designed to toggle power for a Seville 
 
 ---
 
-#Hardware Used
+# Hardware Used
 
 - ESP32-Wroom.
 
